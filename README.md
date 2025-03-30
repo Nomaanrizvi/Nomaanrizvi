@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nomarizvi007@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1e6XAOlQ5S3MwfRcSmPaEG_DuuplfKLmB2cYmiE7KEuA/edit?usp=sharing](https://docs.google.com/document/d/1e6XAOlQ5S3MwfRcSmPaEG_DuuplfKLmB2cYmiE7KEuA/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1e6XAOlQ5S3MwfRcSmPaEG_DuuplfKLmB2cYmiE7KEuA/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
