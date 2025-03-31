@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Art3Mis](https://github.com/Nomaanrizvi/Art3Mis)
 
-- 🌱 I’m currently learning **Advance Frontend and Backend and Next.js**
+- 🌱 I’m currently learning **Advance Frontend and Backend with Next.js**
 
 - 👯 I’m looking to collaborate on [musicblocks_fork](https://github.com/Nomaanrizvi/musicblocks_fork)
 
