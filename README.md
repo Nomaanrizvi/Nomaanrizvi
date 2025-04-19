@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Picnest](https://github.com/Nomaanrizvi/Picnest)
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, Python**
 
 - 📫 How to reach me **nomarizvi007@gmail.com**
 
