@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nomaanrizvi007" target="blank"><img src="https://img.shields.io/twitter/follow/nomaanrizvi007?logo=twitter&style=for-the-badge" alt="nomaanrizvi007" /></a> </p>
 
-- 🔭 I’m currently working on [Art3Mis](https://github.com/Nomaanrizvi/Art3Mis)
+- 🔭 I’m currently working on [auto-applying-by-scraping-indeed]
 
 - 🌱 I’m currently learning **Advance Frontend and Backend with Next.js**
 
